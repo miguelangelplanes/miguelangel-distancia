@@ -13,5 +13,11 @@ public class Github_prueba {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        String prueba = "Esto es para GitHub";
+        
+        for (int i = 0; i < 10; i++) {
+            System.out.println(prueba);
+        }
+        
     }
 }
