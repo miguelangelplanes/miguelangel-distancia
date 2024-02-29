@@ -18,6 +18,11 @@ public class Github_prueba {
         for (int i = 0; i < 10; i++) {
             System.out.println(prueba);
         }
-        
+
+        String pruebanetbeans = "Esto es para netbeans";
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println(pruebanetbeans);
+        }
     }
 }
